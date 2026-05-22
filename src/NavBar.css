@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+    background: yellow;
+}
+
+
+
